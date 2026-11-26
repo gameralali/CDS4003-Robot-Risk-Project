@@ -8,12 +8,33 @@ CDS4003 business data science project using Python, CRISP-DM, scikit-learn, Jupy
 
 Replace every item in this section before submission.
 
-- **Team members and roles:** [sultan Almarzooqi:H00459230,Saleh hussain:H00472151,Khalifa Alameri:H00477581]
-- **GitHub repository:** [ADD PUBLIC REPOSITORY URL]
-- **Live Streamlit app:** [ADD STREAMLIT COMMUNITY CLOUD URL]
-- **Instructor approval for synthetic data:** [ADD DATE AND LINK TO WRITTEN EVIDENCE]
-- **Dataset licence/permission:** [CONFIRM WITH THE INSTRUCTOR OR DATA PROVIDER]
-- **AI-use declaration:** review the declaration below and make it match the team's actual use.
+*Team members and roles:**
+  - **Sultan Almarzooqi (H00459230):** Team Leader; project coordination,
+    GitHub repository management, Streamlit deployment and final integration.
+  - **Saleh Hussain (H00472151):** Data preparation and EDA; reviewing data
+    cleaning, validating quality checks, interpreting exploratory charts and
+    documenting the corresponding report sections.
+  - **Khalifa Alameri (H00477581):** Modeling and evaluation; reviewing model
+    training, validating performance metrics and thresholds, checking test
+    results and documenting model limitations.
+  - **Shared responsibilities:** Report and presentation review, AI-use
+    declaration, application testing and oral-examination preparation.
+- **GitHub repository:**(https://github.com/gameralali/CDS4003-Robot-Risk-Project.git)
+- **GitHub repository:** https://github.com/gameralali/CDS4003-Robot-Risk-Project
+
+- **Live Streamlit app:** Deployment pending. No public URL has been created yet.
+  The URL will be added after deployment and signed-out testing.
+
+- **Instructor approval for synthetic data:** Pending written instructor approval.
+  No approval date or evidence link is currently available.
+
+- **Dataset licence/permission:** Pending confirmation from the instructor or
+  data provider. The full dataset will not be intentionally redistributed publicly
+  until permission is confirmed.
+
+- **AI-use declaration:** Kimi and OpenAI Codex were used as described in the
+  AI-use declaration below. The team will review and update this declaration
+  before submission.
 
 ## 1. Business problem and intended use
 
