@@ -8,7 +8,7 @@ CDS4003 business data science project using Python, CRISP-DM, scikit-learn, Jupy
 
 Replace every item in this section before submission.
 
-- **Team members and roles:** [ADD NAMES, STUDENT IDs, AND VERIFIABLE ROLES]
+- **Team members and roles:** [sultan Almarzooqi:H00459230,Saleh hussain:H00472151,Khalifa Alameri:H00477581]
 - **GitHub repository:** [ADD PUBLIC REPOSITORY URL]
 - **Live Streamlit app:** [ADD STREAMLIT COMMUNITY CLOUD URL]
 - **Instructor approval for synthetic data:** [ADD DATE AND LINK TO WRITTEN EVIDENCE]
