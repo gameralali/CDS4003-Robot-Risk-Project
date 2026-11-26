@@ -1,0 +1,11 @@
+__pycache__/
+node_modules/
+package-lock.json
+*.py[cod]
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.env
+.DS_Store
+outputs/*.xlsx
+!outputs/Project_Results.xlsx
+~$*

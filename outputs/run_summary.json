@@ -1,0 +1,55 @@
+{
+  "cleaning": {
+    "rows_raw": 200200,
+    "blank_rows_removed": 200,
+    "duplicate_rows_removed": 0,
+    "duplicate_task_ids_removed": 0,
+    "domain_invalid_values_set_missing": 1467,
+    "rows_after_structural_cleaning": 200000,
+    "columns": 30,
+    "missing_cells_raw": 113967,
+    "missing_cells_after_domain_validation": 109630
+  },
+  "eda": {
+    "labeled_rows": 199950,
+    "failure_rate": 0.5238959739934984,
+    "figures": 6
+  },
+  "model_rows": 199950,
+  "model_features": 31,
+  "selected_model": "random_forest",
+  "decision_threshold": 0.11,
+  "balanced_f1_threshold": 0.35,
+  "test_metrics_high_recall": {
+    "threshold": 0.11,
+    "accuracy": 0.526522855332911,
+    "precision": 0.5252775177210111,
+    "recall": 0.9998090752879781,
+    "f1": 0.6887179149952872,
+    "roc_auc": 0.7704192063129587,
+    "pr_auc": 0.7859147739452095,
+    "tn": 82,
+    "fp": 14198,
+    "fn": 3,
+    "tp": 15710,
+    "false_positive_cost_aed": 567920,
+    "false_negative_cost_aed": 1500,
+    "total_error_cost_aed": 569420
+  },
+  "test_metrics_balanced": {
+    "threshold": 0.35,
+    "accuracy": 0.6622211849431534,
+    "precision": 0.6245092790863669,
+    "recall": 0.8909183478648253,
+    "f1": 0.7342967295234598,
+    "roc_auc": 0.7704192063129587,
+    "pr_auc": 0.7859147739452095,
+    "tn": 5863,
+    "fp": 8417,
+    "fn": 1714,
+    "tp": 13999,
+    "false_positive_cost_aed": 336680,
+    "false_negative_cost_aed": 857000,
+    "total_error_cost_aed": 1193680
+  }
+}

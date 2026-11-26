@@ -1,0 +1,2 @@
+rows_raw,blank_rows_removed,duplicate_rows_removed,duplicate_task_ids_removed,domain_invalid_values_set_missing,rows_after_structural_cleaning,columns,missing_cells_raw,missing_cells_after_domain_validation
+200200,200,0,0,1467,200000,30,113967,109630
