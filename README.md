@@ -20,8 +20,7 @@ Replace every item in this section before submission.
   - **Shared responsibilities:** Report and presentation review, AI-use
     declaration, application testing and oral-examination preparation.
 - **GitHub repository:**(https://github.com/gameralali/CDS4003-Robot-Risk-Project.git)
-- **GitHub repository:** https://github.com/gameralali/CDS4003-Robot-Risk-Project
-
+  
 - **Live Streamlit app:** Deployment pending. No public URL has been created yet.
   The URL will be added after deployment and signed-out testing.
 
