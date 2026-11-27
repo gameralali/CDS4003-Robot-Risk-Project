@@ -21,8 +21,8 @@ Replace every item in this section before submission.
     declaration, application testing and oral-examination preparation.
 - **GitHub repository:**(https://github.com/gameralali/CDS4003-Robot-Risk-Project.git)
   
-- **Live Streamlit app:** Deployment pending. No public URL has been created yet.
-  The URL will be added after deployment and signed-out testing.
+- **Live Streamlit app:** [Deployment pending. No public URL has been created yet.
+  The URL will be added after deployment and signed-out testing.](https://cds4003-robot-risk-project.streamlit.app/)
 
 - **Instructor approval for synthetic data:** Pending written instructor approval.
   No approval date or evidence link is currently available.
