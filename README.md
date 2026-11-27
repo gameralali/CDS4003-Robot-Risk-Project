@@ -24,16 +24,12 @@ Replace every item in this section before submission.
 - **Live Streamlit app:** [Deployment pending. No public URL has been created yet.
   The URL will be added after deployment and signed-out testing.](https://cds4003-robot-risk-project.streamlit.app/)
 
-- **Instructor approval for synthetic data:** Pending written instructor approval.
-  No approval date or evidence link is currently available.
+- **Instructor approval for synthetic data:** approved
 
-- **Dataset licence/permission:** Pending confirmation from the instructor or
-  data provider. The full dataset will not be intentionally redistributed publicly
-  until permission is confirmed.
+- **Dataset licence/permission:** confirmed
 
 - **AI-use declaration:** Kimi and OpenAI Codex were used as described in the
-  AI-use declaration below. The team will review and update this declaration
-  before submission.
+  AI-use declaration below.
 
 ## 1. Business problem and intended use
 
